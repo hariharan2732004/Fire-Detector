@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/77233507/209699623-383fafbc-c033-4e37-b3c7-a65f35f014ef.png)
+![g3869](https://user-images.githubusercontent.com/77233507/209699623-383fafbc-c033-4e37-b3c7-a65f35f014ef.png)
 # :fire:Arduino Fire Alarm System
 This project is a simple yet effective fire alarm system that uses an Arduino board and a few key components to detect flames and alert the user of potential danger.
 
